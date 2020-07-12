@@ -1,0 +1,14 @@
+#container {
+  margin: 0 auto;
+  padding-top: 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+}
+
+#coloredSquare {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  margin: 25px auto;
+}
